@@ -1,0 +1,22 @@
+.cengiz {
+  color: black;
+  text-align: center;
+}
+.bio-text {
+  text-align: center;
+}
+.bio-2 {
+  padding-left: 10px;
+}
+.hashtags {
+  list-style-type: none;
+}
+.left-end {
+  text-align: center;
+}
+.form .form-inline {
+  border-radius: 35 px;
+}
+.center-button {
+  border-radius: 27px;
+}
